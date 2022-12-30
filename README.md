@@ -1,18 +1,25 @@
-<h2>👋Hey there! I'm Krystian</h2>
+<h2>👋 Hey there! I'm Krystian</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wybran/)
-### 🛠 &nbsp;Tech Stack
+[![GooglePlay](https://img.shields.io/badge/GooglePlay-%230A66C2.svg?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/developer?id=Krystian+Wybranowski)
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=6DB33F)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=Spring&logoColor=6DB33F)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+### 👨‍💻 Programming languages
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+
+### 🛠 Tech Stack 
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;\
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;\
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=Spring&logoColor=6DB33F)&nbsp;
+![Workers](https://img.shields.io/badge/-Workers-05122A?style=flat&logo=Cloudflare)&nbsp;\
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=6DB33F)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=flat&logo=Ionic)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
+
 ![Firebase](https://img.shields.io/badge/Firebase-05122A.svg?style=flat&logo=firebase)&nbsp;
 ![Vercel](https://img.shields.io/badge/vercel-05122A.svg?style=flat&logo=vercel)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-05122A?style=flat&logo=Cloudflare)&nbsp;\
@@ -24,12 +31,12 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ✨ Popular Projects
+### ✨ My Apps on Google Play
 - [🚍 Przystanek MZK](https://github.com/wybran/przystanek-mzk): Mobile app with useful info about public transport in Zielona Góra. The app has a map of stops with timetables and live updated locations of public transport vehicles written in **React & Ionic**.
 - [🎒 Elektron++](https://github.com/ElektronPlus/Elektron-App): My high school mobile app written in **React Native**.
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
